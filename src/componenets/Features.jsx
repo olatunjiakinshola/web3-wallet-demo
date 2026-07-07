@@ -15,7 +15,7 @@ const features = [
 
 export default function Features() {
   return (
-    <section className="features">
+    <section id="features" className="features">
       {features.map((item) => (
         <div className="card" key={item.title}>
           <h3>{item.title}</h3>

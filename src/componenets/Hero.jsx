@@ -2,7 +2,7 @@ import WalletButton from "./WalletButton";
 
 export default function Hero() {
   return (
-    <section className="hero">
+    <section id="home" className="hero">
       <h1>Modern Web3 Experience</h1>
 
       <p>
