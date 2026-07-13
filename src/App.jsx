@@ -1,8 +1,8 @@
-import Navbar from ".//componenets/Navbar";
+import Navbar from "./componenets/Navbar";
 import Hero from "./componenets/Hero";
 import Features from "./componenets/Features";
 import Footer from "./componenets/Footer";
-import "./App.css";
+import "./index.css";
 
 function App() {
   return (
